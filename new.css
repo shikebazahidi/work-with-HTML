@@ -1,0 +1,69 @@
+.h1{
+    font-family: georgia;
+    font-size: 50px;
+    text-align: center ;
+    border: 2px ridge black;
+    margin-left: 300px;
+    margin-right: 300px ;
+    text-shadow: 2px 2px 5px navy;
+}
+
+.be{
+    text-align: center;
+    font-size:30px ;
+    padding-top: 55px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px rgb(61, 68, 49)
+}
+
+.der{
+   font-size: 30px;
+   font-family: sans-serif;
+
+}
+.ref{
+    text-align: center;
+    
+    font-family: monospace;
+    text-shadow: 2px 2px 5px rgb(61, 68, 49);
+    font-size: 30px;
+
+}
+.ret{
+    font-family: monospace;
+    font-size: 30px ;
+
+}
+.tg{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 2px 5px rgb(61, 68, 49);
+    font-size: 30px
+
+}
+.we{
+    font-family: cursive;
+    font-size: 30px ;  
+}
+.as{
+    text-align: center;
+    font-family: fantasy;
+     text-shadow: 2px 2px 5px rgb(61, 68, 49);
+    font-size: 30px
+    
+}
+.ty{
+    font-size: 30px ;
+    font-family: fantasy ; 
+
+}
+.de{
+    text-align: center;
+    font-family: serif;
+    text-shadow: 2px 2px 5px rgb(61, 68, 49);
+    font-size: 30px
+}
+.pe{
+    font-size: 30px ; 
+    font-family: serif;
+}
